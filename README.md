@@ -1,1 +1,1 @@
-reade me file
+This website is hosted on GitHub.
