@@ -1,2 +1,2 @@
 var today = new Date()
-document.getElementsByTagName("p")[0].innerHTML = today
+document.getElementById("dateHere").innerHTML = today
