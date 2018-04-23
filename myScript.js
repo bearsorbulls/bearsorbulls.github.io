@@ -1,2 +1,1 @@
-xxx
-xxx
+var today= new Date()
